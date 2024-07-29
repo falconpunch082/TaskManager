@@ -1,0 +1,14 @@
+D:\Git Repos\TaskManager\bin\Debug\net8.0\TaskManager.exe
+D:\Git Repos\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+D:\Git Repos\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+D:\Git Repos\TaskManager\bin\Debug\net8.0\TaskManager.dll
+D:\Git Repos\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.dll
+D:\Git Repos\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+D:\Git Repos\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+D:\Git Repos\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
